@@ -1,5 +1,5 @@
 ```js
-{
+const me = {
   name: "Mahdi Roohandeh",
   nickname: "Panda",
   age: 21,

@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img width="30px" height="auto" src="https://github.com/pandaCode082/pandaCode082/blob/main/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f70616e64612d776176696e672d636172746f6f6e2d737469636b65722d70693471666b6c7a63653073377a6f352e676966.gif?raw=true"/>, I'm Mahdi Roohandeh</h1>
+<h1 align="center">Hi <img width="38px" height="auto" src="https://github.com/pandaCode082/pandaCode082/blob/main/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f70616e64612d776176696e672d636172746f6f6e2d737469636b65722d70693471666b6c7a63653073377a6f352e676966.gif?raw=true"/>, I'm Mahdi Roohandeh</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
 - 🌱 I’m currently learning **react**
